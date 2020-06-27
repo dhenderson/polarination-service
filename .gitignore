@@ -1,0 +1,10 @@
+.vscode
+env
+.gitignore.swp
+bin
+certifi
+chardet
+idna
+requests
+urllib3
+lambda.zip
